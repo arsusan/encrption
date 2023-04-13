@@ -1,0 +1,19 @@
+    This program uses the Caesar cipher algorithm, which is a very basic encryption algorithm. 
+    While it may be sufficient for some basic purposes, it is not recommended for sensitive or high-security data.
+    When using this program, you should always keep your encryption key safe and secure.
+    
+    If someone gains access to your key, they can easily decrypt your encrypted data.
+     Before running the program, make sure you have a backup of your original data. 
+    If something goes wrong during the encryption or decryption process, you may lose your data permanently.
+
+    When prompted to enter the input and output file names, make sure you enter the correct file names and file paths. 
+    If the file names or paths are incorrect, the program will fail to open the files.
+
+    If you are encrypting a large file, the program may take some time to complete. 
+    Be patient and allow the program to finish before attempting to access the encrypted file.
+
+    Make sure to choose the correct option (1 for encryption or 2 for decryption) when prompted. 
+    If you choose the wrong option, the program may produce unexpected results.
+
+    Finally, remember that this program is just a basic example and should not be used for real-world encryption and decryption purposes.
+    For more secure encryption, you should use more advanced algorithms, such as AES or RSA.
